@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0044)http://www.cse.ogi.edu/~mbs/pub/overloading/ -->
+<HTML><HEAD><TITLE>The Implementation of Functional Programming Languages</TITLE>
+<BODY>
+<H3>The Implementation of Functional Programming Languages</H3>
+Simon Peyton Jones, published by Prentice Hall, 1987.
+<p>
+My 1987 book is now out of print, but it is now available online in its entirety.
+I owe a big debt of thanks to Marnie Montgomery, who made this possible.
+<p>
+<ul>
+<li> <A href="start.htm">Read it online.</A>
+<li> <a href="slpj-1987-book.tar.gz">Download it to read locally.</a>
+</ul>
+<p>
+The book is available as scanned JPG images, so the full download is large.
+Whether you download it or read it online, note the following:
+<ul>
+<li>The big arrows, at the top left and right of each page, move backward
+and forward one page.
+<li>The table of contents is clickable.  You can get to the table of contents by
+clicking the link displayed at the top of each page.
+<li>The index is not (yet) clickable.   You can get to the index by
+clicking the link displayed at the top of each page.
+<li>There is no way (yet) to go to a particular page number; use the TOC as your
+entry point.
+</ul>
+I'd be interested to know who uses this resource, if only to tell Marnie how
+many people have used her work.  Drop me a line!
+</BODY></HTML>
